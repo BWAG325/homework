@@ -1,0 +1,4 @@
+1 A 1 1
+2 BinZhou 100 100
+4 ShangHai 50 50
+5 NanJing 80 60
